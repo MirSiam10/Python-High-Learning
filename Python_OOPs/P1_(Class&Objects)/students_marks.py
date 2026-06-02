@@ -11,17 +11,17 @@ class Student:
     def get_letter_grade(self):
        
         if self.grade >= 90 :
-           print(f"{self.name} got A")
+            return "A"
         elif self.grade >= 80:
-           print(f"{self.name} got B")
+           return "B"
         elif self.grade >= 70:
-           print(f"{self.name} got C")
+           return "C"
         elif self.grade >= 60:
-           print(f"{self.name} got D")
+           return "D"
         # elif self.grade >= 50:
-        #    print(f"{self.name} got F")
+        #    return "F"
         else:
-           print(f"{self.name} Failed")
+           return "F"
 #Method to check if the student is passing
     def is_passing(self):
        if self.grade >= 60:
@@ -35,9 +35,8 @@ arsalan = Student("Arsalan", 80)
 afsana = Student("Afsana", 45)
 
 #Methods Called
-ashin.get_letter_grade()
-print(f"{ashin.name} is passing: {ashin.is_passing()}")
+print(f"{ashin.name}'s result is : {ashin.get_letter_grade()} and Passed: {ashin.is_passing()}")
 arsalan.get_letter_grade()
-print(f"{arsalan.name} is passing: {arsalan.is_passing()}")
+print(f"{arsalan.name}'s result is : {arsalan.get_letter_grade()} and Passed: {arsalan.is_passing()}")
 afsana.get_letter_grade()
-print(f"{afsana.name} is passing: {afsana.is_passing()}")
+print(f"{afsana.name}'s result is : {afsana.get_letter_grade()} and Passed: {afsana.is_passing()}")
