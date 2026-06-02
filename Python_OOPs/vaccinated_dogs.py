@@ -18,3 +18,4 @@ dog3 = VaccinatedDogs("Rex",   "Husky",    2, is_vaccinated=True)  # explicit ke
 dog1.describe()  # Bruno | Labrador | Age: 3 | not vaccinated
 dog2.describe()  # Milo  | Poodle   | Age: 5 | vaccinated
 dog3.describe()  # Rex   | Husky    | Age: 2 | vaccinated
+
