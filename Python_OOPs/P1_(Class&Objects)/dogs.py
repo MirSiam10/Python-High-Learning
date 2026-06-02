@@ -3,10 +3,10 @@ class Dog:
         self.name = name
         self.breed = breed
 
-    def name_and_breed(self):
-        print(f"{self.name} is a {self.breed}.")
+    def bark(self):
+        print(f"{self.name} is a {self.breed} and says: Woof!")
 
 Buddy = Dog("Buddy", "Golden Retriever")
-Buddy.name_and_breed()
+Buddy.bark()
 Charlie = Dog("Charlie", "Labrador Retriever")
-Charlie.name_and_breed()
+Charlie.bark()
