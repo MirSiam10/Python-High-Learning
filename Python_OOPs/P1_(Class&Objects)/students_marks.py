@@ -18,8 +18,6 @@ class Student:
            return "C"
         elif self.grade >= 60:
            return "D"
-        # elif self.grade >= 50:
-        #    return "F"
         else:
            return "F"
 #Method to check if the student is passing

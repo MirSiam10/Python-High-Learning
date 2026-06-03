@@ -1,5 +1,9 @@
 class Book :
     def __init__(self, title, author, pages, is_checked_out=False):
+        if not title or not author:
+            raise ValueError("Title and author cannot be empty.")
+        if pages <= 0:
+            raise ValueError("Pages must be a positive number.")
         self.title = title
         self.author = author
         self.pages = pages
