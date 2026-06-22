@@ -1,9 +1,9 @@
-🐍 Python High Learning – From Fundamentals to Object-Oriented Programming
+🐍 Python High Learning  (From Fundamentals to Object-Oriented Programming)
 📖 Overview
 
 Python High Learning is my personal learning repository, built to strengthen my understanding of Python Fundamentals and Object-Oriented Programming (OOP) through consistent hands-on practice.
 
-Rather than simply reading theory, I challenged myself to implement every concept in code. Each folder in this repository represents a stage of my learning journey—from basic Python syntax to designing object-oriented applications using real-world scenarios.
+Rather than simply reading theory, I challenged myself to implement every concept in code. Each folder in this repository represents a stage of my learning journey from basic Python syntax to designing object-oriented applications using real-world scenarios.
 
 The primary goal of this repository is learning by building, where every program reinforces a specific programming concept and gradually develops problem-solving skills.
 
@@ -120,6 +120,7 @@ Data Structures & Algorithms
 Database Integration
 REST APIs
 Larger Object-Oriented Projects
+
 🎓 About This Project
 
 This is not a production-ready application—it is a documentation of my learning journey.
