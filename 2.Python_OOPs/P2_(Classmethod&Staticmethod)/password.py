@@ -33,3 +33,5 @@ print(Password.is_valid_format("Longpass9"))  # True
 Default = Password.generate_default()
 print(Default)
 print(Default.check_password("Default1"))
+
+
