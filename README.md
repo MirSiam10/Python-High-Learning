@@ -16,7 +16,9 @@ Learn Object-Oriented Programming deeply through practical implementation.
 Practice writing clean, modular, and reusable code.
 Understand how real-world problems can be modeled using OOP principles.
 Create a personal knowledge base that documents my learning progress over time.
-📚 Learning Journey
+
+📚 Learning Journey:
+
 1️⃣ Python Fundamentals
 
 I started by strengthening the core concepts of Python, including:
