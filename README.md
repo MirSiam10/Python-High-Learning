@@ -41,20 +41,35 @@ The second phase of this journey focused entirely on understanding OOP in depth 
 Topics covered include:
 
 ✅ Classes & Objects
+
 ✅ Constructors
+
 ✅ Instance Variables
+
 ✅ Class Variables
+
 ✅ Class Methods
+
 ✅ Static Methods
+
 ✅ Encapsulation
+
 ✅ Properties & Read-only Attributes
+
 ✅ Abstraction using Abstract Base Classes (ABC)
+
 ✅ Inheritance
+
 ✅ Method Overriding
+
 ✅ Multiple Inheritance
+
 ✅ Mixins
+
 ✅ Polymorphism
+
 ✅ super()
+
 ✅ Real-world Object Modeling
 
 Instead of isolated examples, I practiced these concepts by building applications such as:
